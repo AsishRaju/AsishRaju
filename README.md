@@ -29,7 +29,7 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 ---
 
-<details open>
+<details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
 
 ### inCoding 👨🏻‍💻
@@ -70,7 +70,7 @@ They find me attractive so do i 😉.
 
 ### Profile Overview 👀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AsishRaju&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AsishRaju&show_icons=true)<br>
 [![HitCount](http://hits.dwyl.com/AsishRaju/AsishRaju.svg)](http://hits.dwyl.com/AsishRaju/AsishRaju)
 
 ```
