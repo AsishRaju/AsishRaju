@@ -35,17 +35,17 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 
 ### inCoding 👨🏻‍💻
 
-<img src="./gifs/code.png"/>
-<img src="./gifs/postman.png" style="height:28px"/>
-<img src="./gifs/mongodb.png"/>
-<img src="./gifs/firebase.png"/>
-<img src="./gifs/react.png"/>
-<img src="./gifs/nodejs.png"/> 
-<img src="./gifs/javascript.png"/> 
-<img src="./gifs/c.png"/>
-<img src="./gifs/c++.png"/>
-<img src="./gifs/python.png"/>
-<img src="./gifs/arduino.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/code.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/postman..png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/mongodb.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/firebase.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/react.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/nodejs.png"/> 
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/javascript.png"/> 
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/arduino.png"/>
 
 ```
 I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
