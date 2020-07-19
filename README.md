@@ -6,14 +6,14 @@
 
 ### Know Me 🙋🏻‍♂️
 
-**0.** You can call me **Asish**,
-I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓
+You can call me **Asish**,
+I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓,
 
-**1.** Spending 🌞 working on a **Internal DBMS Solution** for my college 🤩
+**Product Manager** [@Deltanow](https://deltanow.net/home) & **FrontEnd Dev** [@DSCGitam](https://github.com/dsc-gitam) also a **Full Stack Web Dev Enthusiast** 💻
 
 **2.** Spending 🌜 learning **The Art of Writing Clean Code** 👌🏻
 
-**3.** **Product Manager** [@Deltanow](https://deltanow.net/home) & **FrontEnd Dev** [@DSCGitam](https://github.com/dsc-gitam) also a **Full Stack Web Dev Enthusiast** 💻
+**3.** Spending 🌞 working on a **Internal DBMS Solution** for my college 🤩
 
 **4.** Passionate about everything that involves **Code**, **Design** and **Space** 🚀
 
@@ -26,7 +26,7 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 
 [![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=AsishRaju&repo=HotCorners)](https://github.com/AsishRaju/HotCorners)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsishRaju&repo=Firepad)](https://github.com/AsishRaju/FirePad)
 
-<center><b>Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</center>
+<h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
 
 ---
 
