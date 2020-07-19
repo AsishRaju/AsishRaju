@@ -9,7 +9,9 @@
 **0.** You can call me **Asish**,
 I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓
 
-**1.** Spending 🌞 working on a **Internal DBMS Solution** for my college 🏛 and 🌜 learning **The Art of Writing Clean Code** 👌🏻
+**1.** Spending 🌞 working on a **Internal DBMS Solution** for my college 🤩
+
+**2.** Spending 🌜 learning **The Art of Writing Clean Code** 👌🏻
 
 **3.** **Product Manager** [@Deltanow](https://deltanow.net/home) & **FrontEnd Dev** [@DSCGitam](https://github.com/dsc-gitam) also a **Full Stack Web Dev Enthusiast** 💻
 
@@ -30,7 +32,6 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 
 <details open>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
-<br>
 
 ### inCoding 👨🏻‍💻
 
@@ -52,12 +53,12 @@ I keep going dates with them 💗, best part no one hates me for going on date w
 
 ### inDesign & Editing 🎨✂
 
-<img src="./gifs/figma.png" style="height:25px"/>
-<img src="./gifs/vegas.png"/>
-<img src="./gifs/xd.png"/>
-<img src="./gifs/photoshop.png"/>
-<img src="./gifs/illustrator.png"/>
-<img src="./gifs/aftereffects.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/figma.png" style="height:25px"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/vegas.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/xd.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/photoshop.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/illustrator.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/aftereffects.png"/>
 
 ```
 They find me attractive so do i 😉.
