@@ -7,15 +7,15 @@
 ### Know Me 🙋🏻‍♂️
 
 You can call me **Asish**,
-I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓,
+I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓,<br>**Product Manager** [@Deltanow](https://deltanow.net/home) & **FrontEnd Dev** for [@DSCGitam](https://github.com/dsc-gitam)🤹🏻‍♂️ also a <br>**Full Stack Web Dev Enthusiast** ⚡
 
-**Product Manager** [@Deltanow](https://deltanow.net/home) & **FrontEnd Dev** [@DSCGitam](https://github.com/dsc-gitam) also a **Full Stack Web Dev Enthusiast** 💻
+**git pull:** _The Art of Writing Clean Code_ 👌🏻
 
-**2.** Spending 🌜 learning **The Art of Writing Clean Code** 👌🏻
+**git commit:** _Internal DBMS Solution_ for my college 🤩
 
-**3.** Spending 🌞 working on a **Internal DBMS Solution** for my college 🤩
+**git checkout:** _Code_, _Design_ and _Space_ 🚀
 
-**4.** Passionate about everything that involves **Code**, **Design** and **Space** 🚀
+### Annoy Me Here 👇🏻
 
 [![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/asish_io)
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/asishraju/)
@@ -30,7 +30,7 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 
 ---
 
-<details open>
+<details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
 
 ### inCoding 👨🏻‍💻
