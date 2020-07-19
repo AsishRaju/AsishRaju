@@ -1,4 +1,4 @@
-# Hey There! <img src="./gifs/hi.gif" width="40px"></h2>
+# Hey There! <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"></h2>
 
 #### They told that i can find the source code of 🌏 here, Still didn't find it let me know if you do 🙏🏻.
 
