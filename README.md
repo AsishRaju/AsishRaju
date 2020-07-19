@@ -9,13 +9,16 @@
 **0.** You can call me **Asish**,
 I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓
 
-**1.** Spending 🌞 working on a **Internal DBMS Solution** for my college 🤩
-
-**2.** Spending 🌜 learning **The Art of Writing Clean Code** 👌🏻
+**1.** Spending 🌞 working on a **Internal DBMS Solution** for my college 🏛 and 🌜 learning **The Art of Writing Clean Code** 👌🏻
 
 **3.** **Product Manager** [@Deltanow](https://deltanow.net/home) & **FrontEnd Dev** [@DSCGitam](https://github.com/dsc-gitam) also a **Full Stack Web Dev Enthusiast** 💻
 
 **4.** Passionate about everything that involves **Code**, **Design** and **Space** 🚀
+
+[![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/asish_io)
+[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/asishraju/)
+[![telegram Card](https://img.icons8.com/color/28/000000/telegram-app.png)](https://t.me/asishio)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/asish.io/)
 
 ### Proud Maker of 😎
 
@@ -27,6 +30,7 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 
 <details open>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
+<br>
 
 ### inCoding 👨🏻‍💻
 
