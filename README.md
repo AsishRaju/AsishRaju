@@ -9,18 +9,17 @@
 You can call me **Asish**,
 I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓,<br>**Product Manager** [@Deltanow](https://deltanow.net/home) & **FrontEnd Dev** for [@DSCGitam](https://github.com/dsc-gitam)🤹🏻‍♂️ also a <br>**Full Stack Web Dev Enthusiast** ⚡
 
-**git pull:** _The Art of Writing Clean Code_ 👌🏻
-
-**git commit:** _Internal DBMS Solution_ for my college 🤩
-
-**git checkout:** _Code_, _Design_ and _Space_ 🚀
+_**git pull:**_ _The Art of Writing Clean Code_ 👌🏻<br>
+_**git commit:**_ _Internal DBMS Solution_ for my college 🤩<br>
+_**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 ### Annoy Me Here 👇🏻
 
 [![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/asish_io)
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/asishraju/)
 [![telegram Card](https://img.icons8.com/color/28/000000/telegram-app.png)](https://t.me/asishio)
-[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/asish.io/)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/asish.io/)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/vashish888) <br>
+[![Gmail Badge](https://img.shields.io/badge/-vashish888@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vashish888@gmail.com)](mailto:vashish888@gmail.com)
 
 ### Proud Maker of 😎
 
