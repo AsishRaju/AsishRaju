@@ -29,11 +29,15 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 ---
 
-<details close>
+<details open>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
 
 ### inCoding 👨🏻‍💻
 
+<img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
+<img src="https://img.icons8.com/fluent/28/000000/console.png"/>
+<img src="https://img.icons8.com/color/28/000000/git.png"/>
+<img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/code.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/postman..png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/mongodb.png"/>
@@ -41,10 +45,11 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/react.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/nodejs.png"/> 
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/javascript.png"/> 
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
+<img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/arduino.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
 
 ```
 I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
@@ -66,6 +71,7 @@ They find me attractive so do i 😉.
 ### Profile Overview 👀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AsishRaju&show_icons=true)
+[![HitCount](http://hits.dwyl.com/AsishRaju/AsishRaju.svg)](http://hits.dwyl.com/AsishRaju/AsishRaju)
 
 ```
 And at last some stats to impress my next 😍😉.
