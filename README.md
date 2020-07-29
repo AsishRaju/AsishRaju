@@ -2,8 +2,6 @@
 
 #### They told that i can find the source code of 🌏 here, Still didn't find it let me know if you do 🙏🏻.
 
-**`#earthrunsonphp🙄`** **`#forreal`** **`#believeme`**
-
 ### Know Me 🙋🏻‍♂️
 
 You can call me **Asish**,
