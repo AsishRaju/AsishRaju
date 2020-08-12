@@ -5,7 +5,7 @@
 ### Know Me 🙋🏻‍♂️
 
 You can call me **Asish**,
-I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓,<br>**Product Manager** [@Deltanow](https://deltanow.net/home) & **FrontEnd Dev** for [@DSCGitam](https://github.com/dsc-gitam)🤹🏻‍♂️ also a <br>**Full Stack Web Dev Enthusiast** ⚡
+I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓,<br>**Product Manager** [@Deltanow](https://deltanow.net/home) & **Community Lead** for [@DSCGitam](https://github.com/dsc-gitam)🤹🏻‍♂️ also a <br>**Full Stack Web Dev Enthusiast** ⚡
 
 _**git pull:**_ _The Art of Writing Clean Code_ 👌🏻<br>
 _**git commit:**_ _Internal DBMS Solution_ for my college 🤩<br>
