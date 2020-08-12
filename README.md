@@ -11,7 +11,7 @@ _**git pull:**_ _The Art of Writing Clean Code_ 👌🏻<br>
 _**git commit:**_ _Internal DBMS Solution_ for my college 🤩<br>
 _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
-### Annoy Me Here 👇🏻
+### Find Me Here 👇🏻
 
 [![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/asish_io)
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/asishraju/)
