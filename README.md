@@ -4,6 +4,6 @@
 <br>
 
 <p align="center">
-<a href="https://twitter.com/asish_io"><img src="https://img.icons8.com/color/28/000000/twitter.png"></a>
+<a href="https://twitter.com/asisssh"><img src="https://img.icons8.com/color/28/000000/twitter.png"></a>
 <a href="https://www.linkedin.com/in/asishraju/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
 </p>
